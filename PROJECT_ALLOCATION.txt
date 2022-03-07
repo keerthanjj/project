@@ -1,0 +1,62 @@
+(76-HOSPITAL DEVICE MANAGEMENT) =>PROJECT 1 .ZIP DOWNLOAD
+================================
+Name of the Associate           Employee ID
+S, SRIRAM         		203824
+A M, VAISHNAVI 	 		209019
+Nelson, Amala 			208994
+Nair, Gokul   			209043
+BS, Nandu     			208985
+
+Team Lead is: S, SRI RAM
+
+     
+(95 -Ship Management System) ==> PROJECT 2. .ZIP DOWNLOAD
+============================
+Employee ID	Name of the Associate           
+209026		Jose, Nekha
+209005		Joy, Manu
+208996		Varghese, Anjumol
+208995		Shaik, Muhammed
+209001		Perumandla, Shivani
+
+
+TEAM LEAD IS : JOY,MANU
+
+
+     (30 - Online Sedative) ==> PROJECT 3 .ZIP DOWNLOAD
+=================================
+Employee ID	Name of the Associate           
+208997			N.S, Nourin
+209002			KUMAR, ADISH
+208998			LEKSHMI, ANJU
+208988			Jose, Anjal
+209021			R NAIR, ATHIRA
+
+
+Team Lead is  : Nourin
+
+(9 - Online Allegation) ==>PROJECT 4 .ZIP DOWNLOAD
+===========================
+Employee ID		Name of the Associate           
+209272		        Jose, Tintu
+209244			THOMAS, KRIPA
+208999			K S, MALAVIKA
+209027			K, Anjali
+209000			Koshy, Jiji
+
+
+Team lead is : Koshy Jiji
+
+
+(1 - Bureaucrat Defended Entity) --> PROJECT-5 .ZIP DOWNLOAD
+================================
+Employee ID	Name of the Associate           
+209004		 Abraham K, Chindhu
+207114	         A S, Arathi
+207062		 V, Vaisakh     
+207056	         harry, abdulla
+167535	         Jose,  Priya
+
+  
+Team Lead:- Vaisakh
+
